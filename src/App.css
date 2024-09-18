@@ -1,0 +1,16 @@
+#root {
+  width: 100%;
+  padding: 2rem;
+  text-align: center;
+}
+
+.table__show-color tr:nth-child(odd){
+  background-color: #D9D9D9;
+}
+.table__show-color tr:nth-child(even){
+ background-color: #F9F9F9;
+}
+
+.sort-button{
+  cursor: pointer;
+}
